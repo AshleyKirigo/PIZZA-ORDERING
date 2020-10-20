@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  color: black;
+}
+h2 {
+  text-align: center;
+  color: black;
+}
+body {
+  background-color: yellow;
+}
+div {
+  text-align: center;
+  display: block;
+}
+form {
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+p {
+  text-align: center;
+}
